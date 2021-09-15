@@ -1,0 +1,51 @@
+@options
+@packages
+-classpath
+'/home/akhil/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar:/home/akhil/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar:/home/akhil/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar:/home/akhil/.m2/repository/mysql/mysql-connector-java/8.0.25/mysql-connector-java-8.0.25.jar:/home/akhil/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/akhil/NetBeansProjects/crudmodel/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'crudmodel-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/akhil/NetBeansProjects/crudmodel/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'crudmodel-1.0-SNAPSHOT 1.0-SNAPSHOT API'
+com.mycompany.crudmodel
+com.mycompany.crudmodel.resources
+mypack
+/home/akhil/.m2/repository/javax/javaee-api/8.0/javaee-api-8.0.jar = 1624692139090
+/home/akhil/.m2/repository/com/sun/mail/javax.mail/1.6.0/javax.mail-1.6.0.jar = 1624692136441
+/home/akhil/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar = 1624692133820
+/home/akhil/.m2/repository/mysql/mysql-connector-java/8.0.25/mysql-connector-java-8.0.25.jar = 1624692138730
+/home/akhil/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar = 1624692136021
+/home/akhil/NetBeansProjects/crudmodel/src/main/java = 1621506772900
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/allclasses-noframe.html = 1624693551923
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/script.js = 1624693551927
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/serialized-form.html = 1624693551895
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/stylesheet.css = 1621584178275
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/overview-tree.html = 1624693551915
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/overview-summary.html = 1624693551927
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/allclasses-frame.html = 1624693551923
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/deprecated-list.html = 1624693551923
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/index.html = 1624693551923
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/help-doc.html = 1624693551927
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/index-all.html = 1624693551919
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/overview-frame.html = 1624693551851
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/package-list = 1624693551851
+/home/akhil/NetBeansProjects/crudmodel/target/site/apidocs/constant-values.html = 1624693551887

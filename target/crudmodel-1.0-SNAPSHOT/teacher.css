@@ -1,0 +1,37 @@
+html{
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #60a9ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+.login {
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px 35px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.login input[type="text"]{
+    border: 3px solid #e1f1ff;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+  
+    
+}
+.login input[type="password"]{
+    border: 3px solid #e1f1ff;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+  
+    
+}

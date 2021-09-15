@@ -1,0 +1,24 @@
+database name mca;
+
+//main table for query
+create table stu(
+RollNo int primary key auto_increment,
+Name varchar(30),
+Course varchar(30),
+Marks double
+);
+
+
+//table for teacher login authentication
+
+create table auth(
+username varchar(30),
+password varchar(30)
+);
+
+//table for Student login authentication
+
+create table auth1(
+username varchar(30),
+password varchar(30)
+);
